@@ -1,6 +1,6 @@
 # 📊 Olist E-Commerce Store Performance Dashboard (Tableau Analysis)
 
-[![Olist E-Commerce Store Performance](Olist%20E-%20Commerce%20Store%20Performance.png)](Olist%20E-%20Commerce%20Store%20Performance.png)  *(Replace with your actual image file name)*
+[![Olist E-Commerce Store Performance](Olist%20E-%20Commerce%20Store%20Performance.png)](Olist%20E-%20Commerce%20Store%20Performance.png)
 
 ## 📌 Overview
 
